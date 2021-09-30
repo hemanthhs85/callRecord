@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/query-app-master.iml" filepath="$PROJECT_DIR$/.idea/query-app-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android-audio-library/query-app-master.android-audio-library.iml" filepath="$PROJECT_DIR$/.idea/modules/android-audio-library/query-app-master.android-audio-library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android-library/query-app-master.android-library.iml" filepath="$PROJECT_DIR$/.idea/modules/android-library/query-app-master.android-library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android-vorbis/query-app-master.android-vorbis.iml" filepath="$PROJECT_DIR$/.idea/modules/android-vorbis/query-app-master.android-vorbis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android-vorbis/libogg/query-app-master.android-vorbis.libogg.iml" filepath="$PROJECT_DIR$/.idea/modules/android-vorbis/libogg/query-app-master.android-vorbis.libogg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android-vorbis/libvorbis/query-app-master.android-vorbis.libvorbis.iml" filepath="$PROJECT_DIR$/.idea/modules/android-vorbis/libvorbis/query-app-master.android-vorbis.libvorbis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/query-app-master.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/query-app-master.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jebml/query-app-master.jebml.iml" filepath="$PROJECT_DIR$/.idea/modules/jebml/query-app-master.jebml.iml" />
+    </modules>
+  </component>
+</project>
